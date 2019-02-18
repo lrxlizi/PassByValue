@@ -1,6 +1,0 @@
-module Pods_PassByValueDemo {
-  umbrella header "Pods-PassByValueDemo-umbrella.h"
-
-  export *
-  module * { export * }
-}
